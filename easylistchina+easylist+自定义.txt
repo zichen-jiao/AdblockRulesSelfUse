@@ -1,4 +1,4 @@
-[Adblock Plus 2.0]
+ [Adblock Plus 2.0]
 ! Checksum: 2ug0Bn2XJfZVAJXdGNQ0AA
 ! Version: 201804200940
 ! Title: EasyList China+EasyList
@@ -83124,3 +83124,10 @@ www.biqiuge.com##DIV[class="top-read-ad"]
 www.biqiuge.com##A[href="javascript:;"]
 www.biqiuge.com##P
 www.biqiuge.com##DIV[class="bottem"]
+//小说2016
+www.xiaoshuo2016.com##DIV[class="readerLeft"]
+www.xiaoshuo2016.com##DIV[class="readerRight"]
+www.xiaoshuo2016.com##P[class="tips"]
+www.xiaoshuo2016.com##DIV[class="page"]
+www.xiaoshuo2016.com##DIV[class="reportRight"]
+www.xiaoshuo2016.com##DIV[class="report"]
