@@ -83140,3 +83140,17 @@ www.biquge.com.tw##DIV[class="nav"]
 www.biquge.com.tw##DIV[class="bottem1"]
 www.biquge.com.tw##DIV[class="bottem2"]
 www.biquge.com.tw##DIV[class="footer"]
+//新笔趣阁
+@@|http://www.javadecompilers.com/processing|$document
+www.xs.la##DIV[class="downcode"]
+www.xs.la##DIV[class="header"]
+www.xs.la##DIV[class="nav"]
+www.xs.la##DIV[class="bottem1"]
+www.xs.la##DIV[class="lm"]
+www.xs.la##DIV[class="con_top"]
+www.xs.la##DIV[class="ywtop"]
+www.xs.la##DIV[class="bottem2"]
+www.xs.la##A[href="javascript:postError();"]
+www.xs.la##FONT
+www.xs.la##DIV[id="footer"][name="footer"]
+
