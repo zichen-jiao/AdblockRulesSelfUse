@@ -83153,4 +83153,15 @@ www.xs.la##DIV[class="bottem2"]
 www.xs.la##A[href="javascript:postError();"]
 www.xs.la##FONT
 www.xs.la##DIV[id="footer"][name="footer"]
-
+//顶点小说
+www.booktxt.net##DIV[class="header"]
+www.booktxt.net##DIV[class="nav"]
+www.booktxt.net##DIV[class="ywtop"]
+www.booktxt.net##DIV[class="con_top"]
+www.booktxt.net##IFRAME[class="bdSug_sd"]
+www.booktxt.net##A[href="javascript:;"]
+www.booktxt.net##DIV[class="bottem1"]
+www.booktxt.net##DIV[class="lm"]
+www.booktxt.net##DIV[id="bdshare"][class="bdshare_t bds_tools get-codes-bdshare"]
+www.booktxt.net##DIV[class="bottem2"]
+www.booktxt.net##DIV[class="footer"]
